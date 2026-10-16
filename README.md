@@ -17,8 +17,3 @@ I'm learning Generative AI and exploring Large Language Models (LLMs), Retrieval
 
 ---
 
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=aakashgupta41&label=Profile%20Views&color=blue&style=flat-square)
-
