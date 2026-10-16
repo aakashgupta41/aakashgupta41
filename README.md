@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**aakashgupta41/aakashgupta41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aakash Gupta 👋
 
-Here are some ideas to get you started:
+### Aspiring Generative AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning Generative AI and exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Python. I'm currently building my knowledge through hands-on projects and continuous learning.
+
+---
+
+### 🛠️ Technologies I'm Exploring
+
+- Python
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
